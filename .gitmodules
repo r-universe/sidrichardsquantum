@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/sidrichardsquantum/sidrichardsquantum.r-universe.dev
 	branch = HEAD
+[submodule "CelestialDynamicsIterationMethods"]
+	path = CelestialDynamicsIterationMethods
+	url = https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods
